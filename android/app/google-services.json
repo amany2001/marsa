@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421259709617",
+    "project_id": "marsa-project-c336e",
+    "storage_bucket": "marsa-project-c336e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421259709617:android:072240afca11969c7b2690",
+        "android_client_info": {
+          "package_name": "com.example.marsa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHlorAxfrqmI4xeO21Y8G1ldxyOdSde54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
